@@ -47,7 +47,7 @@ The dataset used is **Mall\_Customers.csv**, which contains information about 20
 
    * 2D scatter plots (Income vs Spending Score)
    * 3D plots with Age, Income, Spending Score
-   * 
+    
 
  The notebook will:
 
@@ -73,4 +73,3 @@ The dataset used is **Mall\_Customers.csv**, which contains information about 20
   * Average/Moderate group
 
 
-👉 Do you want me to now **generate the Jupyter Notebook** (`CustomerSegmentation.ipynb`) with full code for this dataset so you can run it directly?
